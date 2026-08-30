@@ -22,18 +22,19 @@ Created 06/24/2024, last updated 08/30/2026
     - If the camera does not move when it should, click somewhere on the board and try again.
 
 ## Notes on running directory
-- There must be a folder titled "Screenshots" in the same folder as SokobanNoShinobi.class in order for screenshots to save to this folder. Otherwise, they will save to a default folder (probably somewhere undesired!)
-- There must be a folder titled "Levels" in the same folder as SokobanNoShinobi.class in order for the file-picker dialog to open to the correct folder. Otherwise, it will pick a default folder, and you will spend more time navigating in that dialog than necessary.
+- There must be a folder titled "Screenshots" in the same folder as the SokobanNoShinobi folder in order for screenshots to save to this folder. Otherwise, they will save to a default folder (probably somewhere undesired!)
+- There must be a folder titled "Levels" in the same folder as the SokobanNoShinobi folder in order for the file-picker dialog to open to the correct folder. Otherwise, it will pick a default folder, and you will spend more time navigating in that dialog than necessary.
 
 For the above, "Same folder" means something like this:
 
-- Folder holding game files
-   - SokobanNoShinobi.class
-   - other .class files, etc.
+- Parent folder
+   - SokobanNoShinobi [folder]
    - Levels [folder]
    - Screenshots [folder]
+   - README.md
+   - patch-notes.md
 
-Or, in other words, the folder that holds the game files has a child folder called "Levels" and another called "Screenshots."
+Or, in other words, the folder that holds the game files has a sibling folder called "Levels" and another called "Screenshots."
 ## Watch
  * https://youtu.be/nPsZ-izATx8
  * https://youtu.be/HMejdT6-knY
