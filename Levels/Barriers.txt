@@ -1,0 +1,7 @@
+@Author@moormonkey
+@Title@Barriers
+@Date@12/26/2024
+@MoveLogic@Barriers
+5, 2
+PFF-1 EFF0 EFF0 EFT0 EFF-1 
+EFT0 EFT0 BFF-1 ETT3 EFF1 

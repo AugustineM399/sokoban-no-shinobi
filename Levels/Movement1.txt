@@ -1,0 +1,11 @@
+/ The first of a series of similar levels that require you to move the player and a single box around certain configurations of walls. This level demonstrates the player's ability to "sneak" straight through black walls, as well as the ability for boxes to do the same.
+@Author@moormonkey
+@Title@Simple Movement 1
+@Date@06/28/2024
+3, 5
+EFF0 EFF0 ETF-1
+EFF0 EFF0 EFF0
+EFF0 BFF-1EFF0
+EFF0 EFF0 EFF0
+PFF-1EFF0 EFF0
+

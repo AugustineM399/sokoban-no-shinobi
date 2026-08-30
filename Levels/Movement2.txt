@@ -1,0 +1,11 @@
+/ The second of a series of similar levels that require you to move the player and a single box around certain configurations of walls. This level constricts possible options, requiring the player to choose a specific path that avoids the through-walls.
+@Author@moormonkey
+@Title@Simple Movement 2
+@Date@06/28/2024
+3, 5
+EFF0 EFF0 ETF-1
+EFF0 EFT0 EFF0
+EFF0 BFF-1EFF0
+EFF0 EFF0 EFF0
+PFF-1EFF0 EFF0
+

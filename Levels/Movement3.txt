@@ -1,0 +1,12 @@
+/ The third of a series of similar levels that require you to move the player and a single box around certain configurations of walls. This level necessitates a more complex path that moves further away from the 'direct path'.
+@Author@moormonkey
+@Title@Simple Movement 3
+@Date@06/28/2024
+5, 6
+EFF0 EFF0 EFF0 ETF-1EFF0
+EFF0 EFF0 EFF0 EFF0 EFF0
+EFF0 EFT0 BFF-1EFT0 EFF0
+EFF0 EFT0 EFF0 EFF0 EFF0
+EFF0 PFF-1EFF0 EFF0 EFF0
+EFF0 EFF0 EFF0 EFF0 EFF0
+

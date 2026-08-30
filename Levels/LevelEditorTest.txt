@@ -1,0 +1,7 @@
+@Title@Level Editor Test
+@Author@moormonkey
+@MoveLogic@Standard
+3, 3
+PFF-1 EFF-1 EFF-1
+EFF-1 BFF-1 EFF0
+EFF-1 EFT0 ETF2

@@ -1,0 +1,24 @@
+/ Every line that starts with a / will be ignored.
+/ In this way, comments can be included in the txt file.
+/ First non-skipped line should be width + "," + height.
+/ Then, each line should represent a row of the board.
+/ Necessary data for each tile: Player/Box/Empty, boxDestination, through, maxSteps; in that order.
+/ Player is "P", box is "B", empty is "E"
+/ boxDestination is "F" for regular tiles/walls, "T" if the tile wants a box on top of it. 
+/ All boxes must be on top of boxDestination-true tiles OR all true tiles must have a box on top in order to win.
+/ through is "F" if a player/box can go through and ignore the maxSteps, "T" if the player/box has to check maxSteps even if it is not the last step.
+/ maxSteps is an integer from 0 to 2^31 - 1, or -1 for no max. 0 -> wall.
+/ Illegal board positions (ie box on top of destination/wall) are accepted.
+/ Any skipped lines, which can be /comments or @data, can be placed anywhere, but must start with a / or a @.
+/ @MoveLogic@Standard is the default and does not need to be specified.
+/ To use a different move-logic, write "@MoveLogic@" + the name of that move-logic, such as "SimpleBarriers" (see SimpleBarriers.txt).
+/ Spaces ' ' are ignored everywhere except before / or @.
+@Author@moormonkey
+@Title@Sample Data
+@Date@06/24/2024
+2, 5
+PFF-1 ETF-1
+EFF-1 EFT0
+EFF-1 BFF-1
+EFT2  EFT2
+EFF-1 EFF-1

@@ -1,0 +1,8 @@
+@Title@horrible level 2
+@Author@moormonkey
+@Date@1/5/2025
+@MoveLogic@SimpleBarriers
+3, 3
+EFF-1 EFF-1 BFF-1 
+EFF-1 PFF-1 ETT1 
+EFF-1 EFF-1 EFF-1 

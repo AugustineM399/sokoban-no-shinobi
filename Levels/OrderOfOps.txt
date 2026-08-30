@@ -1,0 +1,9 @@
+/ A level which becomes impossible if you solve it in the wrong order! :-)
+@Author@moormonkey
+@Title@Order of Operations
+@Date@06/28/2024
+3, 4
+PFF-1 EFF-1 EFF-1
+EFF-1 BFF-1 ETF-1
+EFT0  BFF-1 EFF0
+ETF-1 EFF-1 EFF0

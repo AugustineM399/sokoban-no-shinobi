@@ -1,0 +1,8 @@
+@Title@horrible level
+@Author@moormonkey
+@Date@12/31/2024
+@MoveLogic@Standard
+3, 3
+PFF-1 EFF-1 EFF-1 
+EFF-1 EFF-1 EFF-1 
+EFF-1 EFF-1 EFF-1 

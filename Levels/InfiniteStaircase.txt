@@ -1,0 +1,13 @@
+@Author@moormonkey
+@Title@Infinite Staircase
+@Date@12/18/2024
+@MoveLogic@SimpleBarriers
+/ Demonstrates how limited player movement can cause (potentially) unlimited box movement
+7, 7
+PFF-1 BFF-1 EFF-1 EFT0  EFF-1 EFF-1 EFF-1
+EFF-1 EFF-1 EFF-1 EFT0  EFF-1 EFF-1 EFF-1
+EFF-1 EFF-1 EFF-1 EFF0  EFT0  EFF-1 EFF-1
+EFT0  EFT0  EFT0  EFF0  EFF0  EFT0  EFF-1
+EFF-1 EFF-1 EFF-1 EFT0  EFF0  EFF0  EFT0
+EFF-1 EFF-1 EFF-1 EFF-1 EFT0  EFF0  EFF0
+EFF-1 EFF-1 EFF-1 EFF-1 EFF-1 EFT0  ETF20

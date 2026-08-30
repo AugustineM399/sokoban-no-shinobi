@@ -1,0 +1,9 @@
+@Author@moormonkey
+@Title@Simple Barriers
+@Date@12/17/2024
+@MoveLogic@SimpleBarriers
+/ A demonstration of the Simple Barriers movement system.
+6, 3
+PFF-1 ETF-1 EFF-1 EFF-1 EFF-1 EFF-1
+EFT0  EFF-1 EFF-1 EFT0  EFT0  EFT0
+EFF-1 EFT0  EFF-1 BFF-1 EFF0  EFF0
