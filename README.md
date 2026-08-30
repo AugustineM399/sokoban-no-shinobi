@@ -3,6 +3,9 @@ A Sokoban spinoff, with a special gimmick that the player can move more than one
 
 Created 06/24/2024, last updated 08/30/2026
 ## Use
+### Building
+Run `javac` and `java` commands from the working directory just outside the SokobanNoShinobi folder, so that any command would look like `javac SokobanNoShinobi.java`.
+If turned into a .jar file, run with `java -jar <name>.jar`. If possible, I would suggest running the command from a terminal and then either hiding the terminal or detaching the program process from the terminal and closing the terminal so that the program can be run without a useless terminal tab cluttering the screen.
 ### Game
 - Generate or load a level with R or ESC, respectively. This can be done at any time, including while playing a level.
 - Use WASD and BACKSPACE to make a movement plan, then ENTER to execute it.
